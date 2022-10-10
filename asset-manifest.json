@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rishijain21/Khabar-A-news-App/static/css/main.a4a20492.chunk.css",
-    "main.js": "/rishijain21/Khabar-A-news-App/static/js/main.b678018f.chunk.js",
-    "main.js.map": "/rishijain21/Khabar-A-news-App/static/js/main.b678018f.chunk.js.map",
-    "runtime-main.js": "/rishijain21/Khabar-A-news-App/static/js/runtime-main.8beb4285.js",
-    "runtime-main.js.map": "/rishijain21/Khabar-A-news-App/static/js/runtime-main.8beb4285.js.map",
-    "static/js/2.c92c592d.chunk.js": "/rishijain21/Khabar-A-news-App/static/js/2.c92c592d.chunk.js",
-    "static/js/2.c92c592d.chunk.js.map": "/rishijain21/Khabar-A-news-App/static/js/2.c92c592d.chunk.js.map",
-    "static/js/3.2a3004dd.chunk.js": "/rishijain21/Khabar-A-news-App/static/js/3.2a3004dd.chunk.js",
-    "static/js/3.2a3004dd.chunk.js.map": "/rishijain21/Khabar-A-news-App/static/js/3.2a3004dd.chunk.js.map",
-    "index.html": "/rishijain21/Khabar-A-news-App/index.html",
-    "static/css/main.a4a20492.chunk.css.map": "/rishijain21/Khabar-A-news-App/static/css/main.a4a20492.chunk.css.map",
-    "static/js/2.c92c592d.chunk.js.LICENSE.txt": "/rishijain21/Khabar-A-news-App/static/js/2.c92c592d.chunk.js.LICENSE.txt"
+    "main.css": "/Khabar-A-news-App/static/css/main.a4a20492.chunk.css",
+    "main.js": "/Khabar-A-news-App/static/js/main.b678018f.chunk.js",
+    "main.js.map": "/Khabar-A-news-App/static/js/main.b678018f.chunk.js.map",
+    "runtime-main.js": "/Khabar-A-news-App/static/js/runtime-main.83ccb270.js",
+    "runtime-main.js.map": "/Khabar-A-news-App/static/js/runtime-main.83ccb270.js.map",
+    "static/js/2.c92c592d.chunk.js": "/Khabar-A-news-App/static/js/2.c92c592d.chunk.js",
+    "static/js/2.c92c592d.chunk.js.map": "/Khabar-A-news-App/static/js/2.c92c592d.chunk.js.map",
+    "static/js/3.2a3004dd.chunk.js": "/Khabar-A-news-App/static/js/3.2a3004dd.chunk.js",
+    "static/js/3.2a3004dd.chunk.js.map": "/Khabar-A-news-App/static/js/3.2a3004dd.chunk.js.map",
+    "index.html": "/Khabar-A-news-App/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/Khabar-A-news-App/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.c92c592d.chunk.js.LICENSE.txt": "/Khabar-A-news-App/static/js/2.c92c592d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8beb4285.js",
+    "static/js/runtime-main.83ccb270.js",
     "static/js/2.c92c592d.chunk.js",
     "static/css/main.a4a20492.chunk.css",
     "static/js/main.b678018f.chunk.js"
